@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_method_payment_term_purchase_method_payment_term_purchase,method_payment_term_purchase.method_payment_term_purchase,model_method_payment_term_purchase_method_payment_term_purchase,,1,0,0,0
